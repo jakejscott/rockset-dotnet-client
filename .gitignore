@@ -1,5 +1,9 @@
 .vs
 src/**/bin/
 src/**/obj/
+sample/**/bin/
+sample/**/obj/
 *.user
 *.orig
+node_modules
+launchSettings.json
